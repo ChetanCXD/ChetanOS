@@ -6,165 +6,124 @@ to compile all the packages before booting into a capable Linux environment. Che
 the following packages in order to achieve basic functionality:
 
 Man Pages
-
-Iana Etc
+, Iana Etc
 
 Glibc
-
-Zlib
+, Zlib
 
 Bzip2
-
-Xz
+, Xz
 
 Lz4
-
-Zstd 
+, Zstd 
 
 File
-
-Readline
+, Readline
 
 Pcre2
-
-M4
+, M4
 
 Bc
-
-Flex
+, Flex
 
 Tcl
-
-Expect
+, Expect
 
 DejaGNU
-
-Pkgconf
+, Pkgconf
 
 Binutils
-
-GMP
+, GMP
 
 MPFR
-
-MPC
+, MPC
 
 Attr
-
-Acl
+, Acl
 
 Libcap
-
-Libxcrypt
+, Libxcrypt
 
 Shadow
-
-GCC
+, GCC
 
 Ncurses
-
-Sed
+, Sed
 
 Psmisc
-
-Gettext
+, Gettext
 
 Bison
-
-Grep
+, Grep
 
 Bash
-
-Libtool
+, Libtool
 
 GDBM
-
-Gperf
+, Gperf
 
 Expat
-
-Inetutils
+, Inetutils
 
 Less
-
-Perl
+, Perl
 
 XML Parser
-
-Intltool
+, Intltool
 
 Autoconf
-
-Automake
+, Automake
 
 OpenSSL
-
-Libelf
+, Libelf
 
 Libffi
-
-Sqlite
+, Sqlite
 
 Python3
-
-Flit Core
+, Flit Core
 
 Packaging
-
-Wheel
+, Wheel
 
 Setuptools
-
-Ninja 
+, Ninja 
 
 Meson
-
-Kmod
-
-CoreUtils
+, Kmod
+, CoreUtils
 
 Diffutils
-
-Gawk
+, Gawk
 
 Findutils
-
-Groff
+, Groff
 
 GRUB
-
-Gzip
+, Gzip
 
 IPRoute2
-
-Kbd
+, Kbd
 
 Libpipeline
-
-Make
+, Make
 
 Patch
-
-Tar
+, Tar
 
 Texinfo
-
-Vim
+, Vim
 
 MarkupSafe
-
-Jinja2
+, Jinja2
 
 Systemd
-
-D Bus
+, D Bus
 
 Man DB
-
-Procps
+, Procps
 
 Util Linux
-
-E2fsprongs
+, E2fsprongs
 
 <img width="508" height="381" alt="image" src="https://github.com/user-attachments/assets/b8cebfec-1ed0-42ae-be2d-25e277727eac" />
