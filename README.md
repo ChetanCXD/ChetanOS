@@ -10,7 +10,7 @@ Zlib
 Bzip2
 Xz
 Lz4
-Zstd
+Zstd 
 File
 Readline
 Pcre2
