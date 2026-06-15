@@ -1,5 +1,5 @@
 # ChetanOS
-ChetanOS is a bare-bones version of modern Linux Distros such as Arch, Debian, Ubuntu, etc...
+ChetanOS is a bare-bones version of modern Linux Distros such as Arch, Debian, Ubuntu, etc... \n
 It is compiled from scratch by utilizing a host system (Gentoo Live USB in my case) in order 
 to compile all the packages before booting into a capable Linux environment. ChetanOS contains
 the following packages in order to achieve basic functionality:
